@@ -1,0 +1,8 @@
+{
+  "applicationId": "k-migration.test",
+  "author": "gerardo",
+  "documentation": "some test",
+  "data": {
+    "taskType": "InvalidType"
+  }
+}

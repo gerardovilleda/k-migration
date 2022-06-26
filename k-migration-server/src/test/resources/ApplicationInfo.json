@@ -1,0 +1,12 @@
+{
+  "id": "sample-application-0001",
+  "description": "This is the description",
+  "owner": "owner@email.com",
+  "properties": {
+    "number-property": 1,
+    "string-property": "some value"
+  },
+  "groupIds": ["one", "two", "three"],
+  "applicationIds": ["four"],
+  "clientIds": null
+}

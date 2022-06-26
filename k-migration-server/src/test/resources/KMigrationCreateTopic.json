@@ -1,0 +1,9 @@
+{
+  "applicationId": "k-migration.test",
+  "author": "gerardo",
+  "documentation": "some test",
+  "data": {
+    "taskType": "KMigrationCreateTopic",
+    "topicName": "SAMPLE_TOPIC"
+  }
+}
